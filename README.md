@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="karl-talos(1).gif" width="100%" style="border-radius: 15px;" />
+<img src="krow.gif" width="100%" style="border-radius: 15px;" />
 
 <br>
 
